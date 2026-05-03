@@ -1,2 +1,2 @@
 
-npm config set registry https://mirror-npm.runflare.com
+npm config set registry https://mirror-npm.runflare.comgit 
