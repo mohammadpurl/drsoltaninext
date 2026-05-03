@@ -65,7 +65,7 @@
   --input: oklch(0.28 0.04 260);
   --ring: oklch(0.78 0.14 80);
 
-  --font-display: 'Vazirmatn', system-ui, sans-serif;
+  --font-display: "Vazirmatn Variable", "Vazirmatn", system-ui, sans-serif;
 
   --shadow-gold: 0 10px 40px -10px oklch(0.78 0.14 80 / 0.4);
   --shadow-elegant: 0 20px 60px -20px oklch(0.10 0.02 260 / 0.6);
